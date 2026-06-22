@@ -9,6 +9,12 @@
 What is multitool:- 
 Multitool is a tool, that will help you in simple tasks like opening an app, starting your minecraft server, etc...
 
+Motivtion:-
+The primary motivation behind this project was to solve the desktop mess. Instead of navigating through multiple folders or searching the Start menu, I wanted a main file that can launch my most-used applications and manage my local Minecraft server instance with a single interaction.
+
+Inspiration:-
+This project was inspired by the batch file interfaces and the efficiency of batch scripting. I wanted to create a lightweight hub that utilizes Windows command line without the need for heavy, third-party launchers.
+
 Setup Gude:- 
 1. Download all the files.
 2. Make Multitool\Files
@@ -22,5 +28,6 @@ Setup Gude:-
 How does it work:-
 Follow all the instructions, and respond.
 
-What language is it:-
-This is made in Batch Language, the original language by Windows.
+Tech Stack:-
+Language: This is made in Batch Language, the original language by Windows.
+Operating System: This can only work in Windows and batch is only supported on Windows. You can run it on others Operating Systems, but you will need a third party compiler for batch.
